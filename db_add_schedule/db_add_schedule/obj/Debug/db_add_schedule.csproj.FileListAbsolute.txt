@@ -1,0 +1,11 @@
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\bin\Debug\db_add_schedule.exe.config
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\bin\Debug\db_add_schedule.exe
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\bin\Debug\db_add_schedule.pdb
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\obj\Debug\db_add_schedule.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\obj\Debug\db_add_schedule.Form1.resources
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\obj\Debug\db_add_schedule.Properties.Resources.resources
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\obj\Debug\db_add_schedule.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\obj\Debug\db_add_schedule.exe
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\obj\Debug\db_add_schedule.pdb
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\bin\Debug\MySql.Data.dll
+D:\Visual Studio\Projects\db_add_schedule\db_add_schedule\bin\Debug\MySql.Data.xml

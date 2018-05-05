@@ -1,0 +1,17 @@
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\tel_bot_ftf.exe.config
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\tel_bot_ftf.exe
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\tel_bot_ftf.pdb
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\NetTelegramBotApi.dll
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\Telegram.Bot.dll
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\obj\Debug\tel_bot_ftf.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\obj\Debug\tel_bot_ftf.Form1.resources
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\obj\Debug\tel_bot_ftf.Properties.Resources.resources
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\obj\Debug\tel_bot_ftf.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\obj\Debug\tel_bot_ftf.exe
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\obj\Debug\tel_bot_ftf.pdb
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\MySql.Data.dll
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\MySql.Data.xml
+D:\Visual Studio\Projects\tel_bot_ftf\tel_bot_ftf\bin\Debug\Telegram.Bot.xml
